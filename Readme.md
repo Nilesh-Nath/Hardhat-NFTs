@@ -20,7 +20,7 @@ To install and set up the project locally, please follow these steps:
 git clone https://github.com/Nilesh-Nath/Hardhat-NFTs.git
 ```
 
-3. Configure the development environment, such as network settings and provider URLs, in the `.env` file.
+2. Configure the development environment, such as network settings and provider URLs, in the `.env` file.
 
 ## Basic NFTs
 
